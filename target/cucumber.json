@@ -1,0 +1,412 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-16T16:05:03.865Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3046370800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "TC_01:Valid login",
+        "description": "",
+        "id": "aruntest;tc-01:valid-login",
+        "after": [
+          {
+            "result": {
+              "duration": 993400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 4,
+            "name": "I am on login page",
+            "match": {
+              "location": "stepdefinitions.Login.navigateToLoginPage()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1005000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 5,
+            "name": "I login using username and password",
+            "match": {
+              "location": "stepdefinitions.Login.enterUsername_Password()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-16T16:05:03.789Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2950542200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "TC_01-iteration2:Valid login",
+        "description": "",
+        "id": "aruntest;tc-01-iteration2:valid-login",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1003600,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 1003300,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 8,
+            "name": "I am on login page",
+            "match": {
+              "location": "stepdefinitions.Login.navigateToLoginPage()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1007800,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 998400,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 9,
+            "name": "I login using username and password",
+            "match": {
+              "location": "stepdefinitions.Login.enterUsername_Password()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 992200,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-16T16:05:03.870Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2910358700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "TC_01-iteration3:Valid login",
+        "description": "",
+        "id": "aruntest;tc-01-iteration3:valid-login",
+        "after": [
+          {
+            "result": {
+              "duration": 998700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9902100,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 12,
+            "name": "I am on login page",
+            "match": {
+              "location": "stepdefinitions.Login.navigateToLoginPage()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1004300,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 996100,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 13,
+            "name": "I login using username and password",
+            "match": {
+              "location": "stepdefinitions.Login.enterUsername_Password()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1005600,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "ArunTest",
+    "description": "",
+    "id": "aruntest",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/runnablefeatures/ArunTest.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-16T16:05:03.791Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3062368400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "TC_04:Invalid Login2",
+        "description": "",
+        "id": "aruntest2;tc-04:invalid-login2",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitions.Hook.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 4,
+            "name": "I am on login page",
+            "match": {
+              "location": "stepdefinitions.Login.navigateToLoginPage()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.BeforeEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 5,
+            "name": "I login using username and password",
+            "match": {
+              "location": "stepdefinitions.Login.enterUsername_Password()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepdefinitions.Hook.AfterEveryStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "ArunTest2",
+    "description": "",
+    "id": "aruntest2",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/runnablefeatures/ArunTest2.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,15 @@
+# Created on 2021-05-05T22:51:23.717
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2021-05-05T22:51:23.718
+WARNING: Illegal reflective access by com.google.gson.internal.reflect.UnsafeReflectionAccessor (file:/C:/Users/Arun%20Pandian/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar) to field java.lang.Throwable.detailMessage
+
+# Created on 2021-05-05T22:51:23.719
+WARNING: Please consider reporting this to the maintainers of com.google.gson.internal.reflect.UnsafeReflectionAccessor
+
+# Created on 2021-05-05T22:51:23.719
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2021-05-05T22:51:23.720
+WARNING: All illegal access operations will be denied in a future release
+
